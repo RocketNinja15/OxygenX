@@ -22,7 +22,7 @@ https://github.com/ShadowOxygen/OxygenX/releases/tag/v0.8
 The releases section is on the right side of the github......
 
 # Support:
-If you need any help come on to https://discord.gg/rC5ruPCTr7 and I will do my best to support.
+If you need any help come on to https://discord.gg/SeqjYjXBct and I will do my best to support.
 
 Please do not ask me about cracking.
 
